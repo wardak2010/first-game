@@ -1,2 +1,0 @@
-set speed: 5
-

@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Object1",
+  "%Name":"obj_car",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object1",
+  "name":"obj_car",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"first-game",
+    "path":"first-game.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
